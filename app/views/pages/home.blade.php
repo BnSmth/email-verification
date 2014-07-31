@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="jumbotron">
-    <h1>Email Verfication Tutorial</h1>
+    <h1>Email Verification Tutorial</h1>
     <p>
         Welcome to the premiere email verification demo application.
     </p>

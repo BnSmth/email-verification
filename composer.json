@@ -4,12 +4,12 @@
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"require": {
-		"laravel/framework": "4.2.*",
+        "laravel/framework": "4.2.*",
         "laracasts/flash": "~1.0",
         "guzzle/guzzle": "3.9.*"
 	},
 	"require-dev": {
-		"way/generators": "~2.0"
+        "way/generators": "~2.0"
 	},
 	"autoload": {
 		"classmap": [
